@@ -1,6 +1,6 @@
 {
   "name": "netsuite-upload",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Netsuite File Cabinet uploader.",
   "main": "index.js",
   "scripts": {
